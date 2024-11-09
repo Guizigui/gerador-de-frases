@@ -1,7 +1,7 @@
 
 # 📖 pharses
 
-Aplicativo simples em Flutter onde são geradas randomicamente frases.
+Aplicativo  em Flutter onde são geradas randomicamente frases.
 
 ### 🎯 Objetivo:
 
