@@ -62,7 +62,7 @@ class _HomeState extends State<Home> {
         ),
         title: const Text(
           "Frases Do Dia",
-          semanticsLabel: "Frases DO Dia",
+          semanticsLabel: "Frases Do Dia",
           style: TextStyle(
             fontFamily: 'ComfyFeeling',
             color: Colors.white,

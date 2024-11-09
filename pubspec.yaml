@@ -66,6 +66,7 @@ flutter:
     - images/tree-3229512_1280.jpg
     - images/workspace-1280538_1280.jpg
     - images/bookshelf-8995775_640.png
+    - images/FrasesDoDia.png
 
   fonts:
     - family: ComfyFeeling
