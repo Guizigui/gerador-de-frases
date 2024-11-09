@@ -14,6 +14,8 @@ O objetivo foi desenvolver habilidades para maior entendimento do Flutter/Dart n
 ## 📷 Projeto
 
 ![Texto Alternativo](images/FrasesDoDia.png)
+<img src="images/FrasesDoDia.png" alt="Texto Alternativo" width="50%"/>
+
 
 
 
