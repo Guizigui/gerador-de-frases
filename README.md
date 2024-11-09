@@ -1,11 +1,11 @@
 
 # 📖 pharses
 
-Aplicativo simples em Flutter onde são geradas randomicamente frases de cunho motivacional
+Aplicativo simples em Flutter onde são geradas randomicamente frases.
 
 ### 🎯 Objetivo:
 
-O objetivo foi desenvolver habilidades para maior entendimento do Flutter/Dart no geral e como construir aplicação nos mesmo, inserir uma nova fonte no projeto, a alocação das imagens e seu enquadramento, alinhamentos da tela e adquirir noções de front-end
+O objetivo foi desenvolver habilidades para maior entendimento geral do Flutter/Dart e como construir uma aplicação, inserir uma nova fonte no projeto, a alocação das imagens e seu enquadramento, alinhamentos da tela e adquirir noções de front-end
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/guilhermediascavalcante/)
 
